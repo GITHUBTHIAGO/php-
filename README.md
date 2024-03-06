@@ -1,1 +1,5 @@
-# php-
+<?php
+
+echo  "Óla mundo!";
+
+?>
